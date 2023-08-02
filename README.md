@@ -7,6 +7,7 @@ The `requirements.txt` file list all Python libraries, and they can be installed
 pip install -r requirements.txt
 ```
 ## Data Processing
+![alt text](https://github.com/Jiayikung/Forcasting-collection-rate-of-Taiwan-Pension/blob/main/figure_bk.png)
 ## Mutiple Regression Model
 ## Bayesian estimation model
 ## Future Milestone
